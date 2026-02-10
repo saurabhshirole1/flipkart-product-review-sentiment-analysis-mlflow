@@ -1,0 +1,36 @@
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+myenv/
+venv/
+.env/
+
+# -----------------------------
+# Python cache files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# OS / Editor junk files
+# -----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# Model files (OPTIONAL)
+# -----------------------------
+# Uncomment if you do NOT want to push trained models
+# pkl/

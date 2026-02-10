@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Intenship tasks/Sentiment Analysis/Sentiment analysis project/mlruns/1/models/m-424aee04195e45f4bb15a349c64d40ab/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-424aee04195e45f4bb15a349c64d40ab
+model_size_bytes: 40720
+model_uuid: m-424aee04195e45f4bb15a349c64d40ab
+prompts: null
+run_id: ce222f3abbb945b98b0947707bc93b2a
+utc_time_created: '2026-02-08 10:21:28.970364'
