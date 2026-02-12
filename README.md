@@ -1,25 +1,7 @@
 # 🛒 Flipkart Review Sentiment Analysis using mlflow  
 ### NLP · Machine Learning · MLflow · MLOps
 
-![Project Banner](./banner.png)
-
 ---
-
-## 📌 Table of Contents
-- <a href="#overview">Overview</a>
-- <a href="#application-preview">Application Preview</a>
-- <a href="#business-objective">Business Objective</a>
-- <a href="#dataset">Dataset</a>
-- <a href="#tools--technologies">Tools & Technologies</a>
-- <a href="#project-structure">Project Structure</a>
-- <a href="#data-preparation">Data Preparation</a>
-- <a href="#model--approach">Model & Approach</a>
-- <a href="#mlflow--experiment-tracking--mlops">MLflow – Experiment Tracking & MLOps</a>
-- <a href="#key-insights">Key Insights</a>
-- <a href="#business-impact">Business Impact</a>
-- <a href="#how-to-run-the-project">How to Run the Project</a>
-- <a href="#author--contact">Author & Contact</a>
-- <a href="#acknowledgment">Acknowledgment</a>
 
 ---
 
@@ -209,16 +191,6 @@ http://127.0.0.1:5000
 ```bash
 streamlit run app/app.py
 ```
-
----
-
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
-
-**Nikhil Borade**
-Aspiring Data Scientist | Machine Learning | NLP | MLOps
-
-* GitHub: [https://github.com/nikhilborade0412](https://github.com/nikhilborade0412)
-* LinkedIn: [https://www.linkedin.com/in/nikhilborade](https://www.linkedin.com/in/nikhilborade)
 
 ---
 
